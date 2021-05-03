@@ -1,0 +1,24 @@
+.app{
+    width: 40%;
+    margin:10% auto;
+}
+
+.addButton{
+    display: block;
+    width:20%;
+    margin: auto;
+}
+
+.outputBox{
+    margin: 10%;
+    text-align: center;
+}
+
+.dataRow{
+    width:50%;
+    text-align: left;
+}
+
+.deleteBtn{
+    float: right;
+}
